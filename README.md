@@ -1,5 +1,6 @@
 # Pima-Indian-Diabetes-Detection
 
+Machine Learning algorithms to detect whether the person has been diagnosed with diabetes or not, given the body parameters.
 Dataset- https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
 Training Accuracy- 97%
